@@ -100,4 +100,3 @@
 | 2019/04/01 07:50:06 | https://twitter.com/minyoruminyon/status/1112487260107075584 | 26       | 26    | 52      | grethlen |
 | 2018/11/23 15:13:41 | https://twitter.com/minyoruminyon/status/1065850857864843264 | 22       | 30    | 52      | blacknon_ |
 | 2019/06/30 23:08:51 | https://twitter.com/minyoruminyon/status/1145333378637389825 | 20       | 32    | 52      | yami_buta |
- grethlen |
