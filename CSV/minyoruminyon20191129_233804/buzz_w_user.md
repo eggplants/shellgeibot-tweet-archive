@@ -760,8 +760,7 @@
 | 2019/05/19 21:34:34 | https://twitter.com/minyoruminyon/status/1130089359657410566 | 15       | 2     | 17      | cheese_rulez |
 | 2019/06/02 18:21:28 | https://twitter.com/minyoruminyon/status/1135114196289372160 | 10       | 7     | 17      | blacknon_ |
 | 2018/07/02 12:55:51 | https://twitter.com/minyoruminyon/status/1013632319469441024 | 10       | 7     | 17      | ryuichiueda |
-| 2018/01/01 00:00:08 | https://twitter.com/minyoruminyon/status/947482510232928258  | 10       | 7     | 17      | Surfin3000GTRs
- |
+| 2018/01/01 00:00:08 | https://twitter.com/minyoruminyon/status/947482510232928258  | 10       | 7     | 17      | Surfin3000GTRs|
 | 2019/08/31 14:17:32 | https://twitter.com/minyoruminyon/status/1167667717798846471 | 9        | 8     | 17      | amanoese |
 | 2019/07/26 21:24:07 | https://twitter.com/minyoruminyon/status/1154729105767583744 | 9        | 8     | 17      | blacknon_ |
 | 2019/04/23 22:23:13 | https://twitter.com/minyoruminyon/status/1120679522322403329 | 9        | 8     | 17      | blacknon_ |
