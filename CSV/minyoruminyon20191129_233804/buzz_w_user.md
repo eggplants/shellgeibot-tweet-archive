@@ -1,9 +1,9 @@
 | Tweet date          | Tweet URL                                                    | Retweets | Likes | RT+LIKE | USERID |
 |---------------------|--------------------------------------------------------------|----------|-------|---------|------------|
 | 2019/05/21 22:08:09 | https://twitter.com/minyoruminyon/status/1130822587242561536 | 978      | 1422  | 2400    | ryuichiueda |
-| 2019/06/30 23:15:50 | https://twitter.com/minyoruminyon/status/1145335136231149568 | 304      | 656   | 960     | eggucheese |
+| 2019/06/30 23:15:50 | https://twitter.com/minyoruminyon/status/1145335136231149568 | 304      | 656   | 960     | yami_buta |
 | 2019/07/25 06:50:41 | https://twitter.com/minyoruminyon/status/1154146910799683586 | 242      | 359   | 601     | jiro_saburomaru |
-| 2019/08/29 20:31:53 | https://twitter.com/minyoruminyon/status/1167037149528518656 | 234      | 322   | 556     | aoyahiro |
+| 2019/08/29 20:31:53 | https://twitter.com/minyoruminyon/status/1167037149528518656 | 234      | 322   | 556     | yukito_2828 |
 | 2019/08/26 23:20:08 | https://twitter.com/minyoruminyon/status/1165992325706727426 | 103      | 290   | 393     | yamaya |
 | 2019/06/01 12:36:18 | https://twitter.com/minyoruminyon/status/1134664944173981698 | 134      | 242   | 376     | ryuichiueda |
 | 2019/04/07 02:04:49 | https://twitter.com/minyoruminyon/status/1114574692793196545 | 127      | 201   | 328     | yamaya |
@@ -14,7 +14,7 @@
 | 2019/07/08 05:45:10 | https://twitter.com/minyoruminyon/status/1147969831091630081 | 78       | 143   | 221     | yami_buta |
 | 2019/07/16 16:26:43 | https://twitter.com/minyoruminyon/status/1151030384357810176 | 67       | 152   | 219     | kisaragiwid |
 | 2019/05/23 03:16:08 | https://twitter.com/minyoruminyon/status/1131262481391706112 | 68       | 122   | 190     | yami_buta |
-| 2018/07/15 22:49:18 | https://twitter.com/minyoruminyon/status/1018492705016446976 | 95       | 92    | 187     | 5GiornoGiovanna |
+| 2018/07/15 22:49:18 | https://twitter.com/minyoruminyon/status/1018492705016446976 | 95       | 92    | 187     | grethlen |
 | 2017/10/05 21:45:08 | https://twitter.com/minyoruminyon/status/915920790918328320  | 73       | 101   | 174     | eban |
 | 2019/11/11 11:00:32 | https://twitter.com/minyoruminyon/status/1193710065657626624 | 56       | 110   | 166     | HiY_ |
 | 2019/06/15 16:36:44 | https://twitter.com/minyoruminyon/status/1139798882156552192 | 44       | 104   | 148     | hagyu_aya |
@@ -88,7 +88,7 @@
 | 2019/11/14 12:49:18 | https://twitter.com/minyoruminyon/status/1194824601261395968 | 21       | 36    | 57      | ban_gen |
 | 2019/05/21 07:26:33 | https://twitter.com/minyoruminyon/status/1130600726785273856 | 19       | 38    | 57      | yami_buta |
 | 2019/07/29 13:03:24 | https://twitter.com/minyoruminyon/status/1155690259524382720 | 18       | 39    | 57      | kino___ma |
-| 2019/11/23 21:39:57 | https://twitter.com/minyoruminyon/status/1198219636904300544 | 16       | 40    | 56      | Armstrong__Yuzu |
+| 2019/11/23 21:39:57 | https://twitter.com/minyoruminyon/status/1198219636904300544 | 16       | 40    | 56      | egpl0 |
 | 2018/06/21 23:03:18 | https://twitter.com/minyoruminyon/status/1009798920547885056 | 22       | 33    | 55      | ryuichiueda |
 | 2019/10/13 10:36:07 | https://twitter.com/minyoruminyon/status/1183194672505614336 | 20       | 35    | 55      | jiro_saburomaru |
 | 2019/06/22 12:40:00 | https://twitter.com/minyoruminyon/status/1142276019979599873 | 22       | 32    | 54      | yami_buta |
@@ -253,7 +253,7 @@
 | 2019/06/06 20:37:46 | https://twitter.com/minyoruminyon/status/1136598049399009282 | 9        | 23    | 32      | jiro_saburomaru |
 | 2019/11/14 15:09:05 | https://twitter.com/minyoruminyon/status/1194859780214362118 | 8        | 24    | 32      | tallestorange |
 | 2019/08/29 04:10:22 | https://twitter.com/minyoruminyon/status/1166790142167674880 | 8        | 24    | 32      | miya_789 |
-| 2019/08/01 12:23:53 | https://twitter.com/minyoruminyon/status/1156767479210729472 | 7        | 25    | 32      | doom_k |
+| 2019/08/01 12:23:53 | https://twitter.com/minyoruminyon/status/1156767479210729472 | 7        | 25    | 32      | yami_buta |
 | 2019/04/10 08:25:04 | https://twitter.com/minyoruminyon/status/1115757550970925057 | 16       | 15    | 31      | grethlen |
 | 2019/07/11 08:52:34 | https://twitter.com/minyoruminyon/status/1149104153114767360 | 13       | 18    | 31      | yami_buta |
 | 2019/05/18 23:09:49 | https://twitter.com/minyoruminyon/status/1129750944198078465 | 13       | 18    | 31      | xztaityozx_001 |
@@ -303,7 +303,7 @@
 | 2018/09/23 20:33:10 | https://twitter.com/minyoruminyon/status/1043825595673587713 | 10       | 19    | 29      | blacknon_ |
 | 2019/10/29 07:43:50 | https://twitter.com/minyoruminyon/status/1188949524292653057 | 9        | 20    | 29      | yami_buta |
 | 2019/08/22 23:49:17 | https://twitter.com/minyoruminyon/status/1164550113307398144 | 9        | 20    | 29      | kino___ma |
-| 2019/08/17 21:50:35 | https://twitter.com/minyoruminyon/status/1162708301391380481 | 9        | 20    | 29      | gihyosd |
+| 2019/08/17 21:50:35 | https://twitter.com/minyoruminyon/status/1162708301391380481 | 9        | 20    | 29      | ryuichiueda |
 | 2019/07/17 23:02:58 | https://twitter.com/minyoruminyon/status/1151492491931086848 | 9        | 20    | 29      | blacknon_ |
 | 2019/04/02 00:09:04 | https://twitter.com/minyoruminyon/status/1112733625227726848 | 9        | 20    | 29      | teckl |
 | 2018/06/18 00:01:09 | https://twitter.com/minyoruminyon/status/1008363929603489792 | 8        | 21    | 29      | wakamesoba98 |
@@ -377,7 +377,7 @@
 | 2019/08/04 17:07:38 | https://twitter.com/minyoruminyon/status/1157926049579094017 | 6        | 20    | 26      | yryrrrrryryr |
 | 2019/07/17 16:57:32 | https://twitter.com/minyoruminyon/status/1151400528481419265 | 6        | 20    | 26      | gepetan |
 | 2019/05/06 21:57:00 | https://twitter.com/minyoruminyon/status/1125383963407634439 | 13       | 12    | 25      | jiro_saburomaru |
-| 2018/01/06 21:44:13 | https://twitter.com/minyoruminyon/status/949622632944517120  | 13       | 12    | 25      | theoremoon |
+| 2018/01/06 21:44:13 | https://twitter.com/minyoruminyon/status/949622632944517120  | 13       | 12    | 25      | theoldmoon0602 |
 | 2019/07/21 02:00:22 | https://twitter.com/minyoruminyon/status/1152624301276688384 | 12       | 13    | 25      | hagyu_aya |
 | 2018/03/02 21:59:52 | https://twitter.com/minyoruminyon/status/969557902473048064  | 12       | 13    | 25      | kochanto |
 | 2017/10/27 18:50:59 | https://twitter.com/minyoruminyon/status/923849499818131456  | 12       | 13    | 25      | obknnt |
@@ -409,7 +409,7 @@
 | 2019/11/17 21:24:37 | https://twitter.com/minyoruminyon/status/1196041447180390400 | 12       | 12    | 24      | HisoNWP |
 | 2019/08/31 01:16:14 | https://twitter.com/minyoruminyon/status/1167471095022145536 | 11       | 13    | 24      | grethlen |
 | 2019/06/12 19:30:17 | https://twitter.com/minyoruminyon/status/1138755393625006081 | 11       | 13    | 24      | s_mitu |
-| 2019/06/02 20:07:40 | https://twitter.com/minyoruminyon/status/1135140922759426050 | 11       | 13    | 24      | 16tons_ |
+| 2019/06/02 20:07:40 | https://twitter.com/minyoruminyon/status/1135140922759426050 | 11       | 13    | 24      | yami_buta |
 | 2019/03/31 14:21:04 | https://twitter.com/minyoruminyon/status/1112223262870634496 | 11       | 13    | 24      | papiron |
 | 2019/06/27 22:58:48 | https://twitter.com/minyoruminyon/status/1144243684881256448 | 10       | 14    | 24      | grethlen |
 | 2019/03/05 15:52:47 | https://twitter.com/minyoruminyon/status/1102824258617499649 | 10       | 14    | 24      | srn221B |
@@ -453,7 +453,7 @@
 | 2019/02/09 10:43:20 | https://twitter.com/minyoruminyon/status/1094049072585920513 | 8        | 15    | 23      | hako_bey |
 | 2018/07/17 00:37:42 | https://twitter.com/minyoruminyon/status/1018882374812090375 | 8        | 15    | 23      | amanoese |
 | 2019/08/22 23:02:58 | https://twitter.com/minyoruminyon/status/1164538454337708034 | 7        | 16    | 23      | yukito_2828 |
-| 2019/07/16 22:27:17 | https://twitter.com/minyoruminyon/status/1151121125599920131 | 7        | 16    | 23      | man_2_fork |
+| 2019/07/16 22:27:17 | https://twitter.com/minyoruminyon/status/1151121125599920131 | 7        | 16    | 23      | qwertanus |
 | 2019/07/10 23:20:19 | https://twitter.com/minyoruminyon/status/1148960141414264834 | 7        | 16    | 23      | yami_buta |
 | 2019/07/08 06:46:22 | https://twitter.com/minyoruminyon/status/1147985232382984192 | 7        | 16    | 23      | CareleSmith9 |
 | 2019/06/04 13:21:09 | https://twitter.com/minyoruminyon/status/1135763396400361472 | 7        | 16    | 23      | rabdoslogos |
@@ -463,7 +463,7 @@
 | 2019/06/08 18:09:08 | https://twitter.com/minyoruminyon/status/1137285419035324416 | 6        | 17    | 23      | neunetneucom |
 | 2019/05/18 19:28:04 | https://twitter.com/minyoruminyon/status/1129695140044349440 | 6        | 17    | 23      | hamukichi_nbr |
 | 2019/10/16 00:58:17 | https://twitter.com/minyoruminyon/status/1184136421654724614 | 5        | 18    | 23      | hatoata |
-| 2019/06/10 19:30:36 | https://twitter.com/minyoruminyon/status/1138030697388494848 | 5        | 18    | 23      | jmitani |
+| 2019/06/10 19:30:36 | https://twitter.com/minyoruminyon/status/1138030697388494848 | 5        | 18    | 23      | yami_buta |
 | 2019/02/20 07:39:29 | https://twitter.com/minyoruminyon/status/1097989075280117760 | 5        | 18    | 23      | yami_buta |
 | 2019/08/16 21:56:34 | https://twitter.com/minyoruminyon/status/1162347419033427968 | 4        | 19    | 23      | yamada_toru1980 |
 | 2019/05/12 17:11:48 | https://twitter.com/minyoruminyon/status/1127486519617286144 | 12       | 10    | 22      | jiro_saburomaru |
@@ -564,7 +564,7 @@
 | 2018/07/14 00:11:59 | https://twitter.com/minyoruminyon/status/1017788736422068224 | 6        | 15    | 21      | knrotze |
 | 2019/09/25 23:28:30 | https://twitter.com/minyoruminyon/status/1176866068792348673 | 5        | 16    | 21      | ryuichiueda |
 | 2019/07/18 08:07:20 | https://twitter.com/minyoruminyon/status/1151629488268013568 | 5        | 16    | 21      | yami_buta |
-| 2019/07/17 19:23:59 | https://twitter.com/minyoruminyon/status/1151437381427314688 | 5        | 16    | 21      | ega_wave |
+| 2019/07/17 19:23:59 | https://twitter.com/minyoruminyon/status/1151437381427314688 | 5        | 16    | 21      | ryuichiueda |
 | 2019/09/01 19:15:53 | https://twitter.com/minyoruminyon/status/1168105185979187201 | 4        | 17    | 21      | Mikanixonable |
 | 2019/06/19 19:40:50 | https://twitter.com/minyoruminyon/status/1141294765025054722 | 2        | 19    | 21      | 3socha |
 | 2019/02/20 13:15:04 | https://twitter.com/minyoruminyon/status/1098073527716990978 | 12       | 8     | 20      | xztaityozx_001 |
@@ -579,7 +579,7 @@
 | 2018/11/25 04:52:13 | https://twitter.com/minyoruminyon/status/1066419234530455552 | 10       | 10    | 20      | YToriyama |
 | 2019/10/14 09:11:09 | https://twitter.com/minyoruminyon/status/1183535680112054272 | 9        | 11    | 20      | ytkmns |
 | 2019/07/29 19:18:49 | https://twitter.com/minyoruminyon/status/1155784736133931008 | 9        | 11    | 20      | yamaya |
-| 2019/07/16 18:19:15 | https://twitter.com/minyoruminyon/status/1151058703908573190 | 9        | 11    | 20      | egpl0_sh |
+| 2019/07/16 18:19:15 | https://twitter.com/minyoruminyon/status/1151058703908573190 | 9        | 11    | 20      | flow_6852 |
 | 2019/07/16 15:49:40 | https://twitter.com/minyoruminyon/status/1151021061107884033 | 9        | 11    | 20      | CareleSmith9 |
 | 2019/06/11 21:59:20 | https://twitter.com/minyoruminyon/status/1138430515034218501 | 9        | 11    | 20      | yami_buta |
 | 2019/05/31 09:46:38 | https://twitter.com/minyoruminyon/status/1134259860625772544 | 9        | 11    | 20      | ryuichiueda |
@@ -760,7 +760,7 @@
 | 2019/05/19 21:34:34 | https://twitter.com/minyoruminyon/status/1130089359657410566 | 15       | 2     | 17      | cheese_rulez |
 | 2019/06/02 18:21:28 | https://twitter.com/minyoruminyon/status/1135114196289372160 | 10       | 7     | 17      | blacknon_ |
 | 2018/07/02 12:55:51 | https://twitter.com/minyoruminyon/status/1013632319469441024 | 10       | 7     | 17      | ryuichiueda |
-| 2018/01/01 00:00:08 | https://twitter.com/minyoruminyon/status/947482510232928258  | 10       | 7     | 17      | Surfin3000GTRs|
+| 2018/01/01 00:00:08 | https://twitter.com/minyoruminyon/status/947482510232928258  | 10       | 7     | 17      | Surfin3000GTRs |
 | 2019/08/31 14:17:32 | https://twitter.com/minyoruminyon/status/1167667717798846471 | 9        | 8     | 17      | amanoese |
 | 2019/07/26 21:24:07 | https://twitter.com/minyoruminyon/status/1154729105767583744 | 9        | 8     | 17      | blacknon_ |
 | 2019/04/23 22:23:13 | https://twitter.com/minyoruminyon/status/1120679522322403329 | 9        | 8     | 17      | blacknon_ |
@@ -813,9 +813,9 @@
 | 2019/10/11 10:02:29 | https://twitter.com/minyoruminyon/status/1182461434556403714 | 5        | 12    | 17      | yami_buta |
 | 2019/08/24 12:16:32 | https://twitter.com/minyoruminyon/status/1165100548829282305 | 5        | 12    | 17      | yami_buta |
 | 2019/07/20 23:14:20 | https://twitter.com/minyoruminyon/status/1152582517737713665 | 5        | 12    | 17      | yami_buta |
-| 2019/07/19 22:57:24 | https://twitter.com/minyoruminyon/status/1152215866957688832 | 5        | 12    | 17      | 00000_OOOO_ooo |
+| 2019/07/19 22:57:24 | https://twitter.com/minyoruminyon/status/1152215866957688832 | 5        | 12    | 17      | yamada_toru1980 |
 | 2019/07/04 18:46:29 | https://twitter.com/minyoruminyon/status/1146716903005511680 | 5        | 12    | 17      | jiro_saburomaru |
-| 2019/06/25 22:40:56 | https://twitter.com/minyoruminyon/status/1143514415293067264 | 5        | 12    | 17      | yakiniku_roseta |
+| 2019/06/25 22:40:56 | https://twitter.com/minyoruminyon/status/1143514415293067264 | 5        | 12    | 17      | tateishi_blanc |
 | 2019/06/12 00:06:13 | https://twitter.com/minyoruminyon/status/1138462446354608128 | 5        | 12    | 17      | fujifog |
 | 2019/06/10 12:14:02 | https://twitter.com/minyoruminyon/status/1137920830908715009 | 5        | 12    | 17      | ku2m1 |
 | 2019/06/06 06:50:40 | https://twitter.com/minyoruminyon/status/1136389901300129792 | 5        | 12    | 17      | yami_buta |
@@ -866,7 +866,7 @@
 | 2019/01/15 22:07:16 | https://twitter.com/minyoruminyon/status/1085161494885457920 | 7        | 9     | 16      | blacknon_ |
 | 2018/11/23 11:33:27 | https://twitter.com/minyoruminyon/status/1065795433488760832 | 7        | 9     | 16      | t_motooka |
 | 2018/08/26 15:08:23 | https://twitter.com/minyoruminyon/status/1033597001789661184 | 7        | 9     | 16      | blacknon_ |
-| 2018/07/25 21:43:07 | https://twitter.com/minyoruminyon/status/1022099931119546368 | 7        | 9     | 16      | theoremoon |
+| 2018/07/25 21:43:07 | https://twitter.com/minyoruminyon/status/1022099931119546368 | 7        | 9     | 16      | theoldmoon0602 |
 | 2018/03/22 10:07:12 | https://twitter.com/minyoruminyon/status/976626312252071937  | 7        | 9     | 16      | eban |
 | 2017/09/21 22:14:56 | https://twitter.com/minyoruminyon/status/910854860324536321  | 7        | 9     | 16      | eban |
 | 2019/11/18 19:21:59 | https://twitter.com/minyoruminyon/status/1196372976679022592 | 6        | 10    | 16      | amanoese |
@@ -914,7 +914,7 @@
 | 2019/08/07 14:00:50 | https://twitter.com/minyoruminyon/status/1158966204523900928 | 4        | 12    | 16      | CsF_kemi |
 | 2019/07/18 22:36:53 | https://twitter.com/minyoruminyon/status/1151848314695892992 | 4        | 12    | 16      | yami_buta |
 | 2019/07/17 08:32:19 | https://twitter.com/minyoruminyon/status/1151273385713795072 | 4        | 12    | 16      | STOPfrozen_UNEI |
-| 2019/07/14 11:33:33 | https://twitter.com/minyoruminyon/status/1150231830550863873 | 4        | 12    | 16      | DownloaderBot |
+| 2019/07/14 11:33:33 | https://twitter.com/minyoruminyon/status/1150231830550863873 | 4        | 12    | 16      | yami_buta |
 | 2019/07/06 23:25:58 | https://twitter.com/minyoruminyon/status/1147512015633567745 | 4        | 12    | 16      | teruteru128 |
 | 2019/07/05 01:32:58 | https://twitter.com/minyoruminyon/status/1146819200473632768 | 4        | 12    | 16      | kino___ma |
 | 2019/07/04 20:55:32 | https://twitter.com/minyoruminyon/status/1146749380772286470 | 4        | 12    | 16      | jiro_saburomaru |
