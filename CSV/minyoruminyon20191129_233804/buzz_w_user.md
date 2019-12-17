@@ -567,8 +567,7 @@
 | 2019/07/17 19:23:59 | https://twitter.com/minyoruminyon/status/1151437381427314688 | 5        | 16    | 21      | ega_wave |
 | 2019/09/01 19:15:53 | https://twitter.com/minyoruminyon/status/1168105185979187201 | 4        | 17    | 21      | Mikanixonable |
 | 2019/06/19 19:40:50 | https://twitter.com/minyoruminyon/status/1141294765025054722 | 2        | 19    | 21      | 3socha |
-| 2019/02/20 13:15:04 | https://twitter.com/minyoruminyon/status/1098073527716990978 | 12       | 8     | 20      | xztaityozx_001
- |
+| 2019/02/20 13:15:04 | https://twitter.com/minyoruminyon/status/1098073527716990978 | 12       | 8     | 20      | xztaityozx_001 |
 | 2019/05/26 11:06:52 | https://twitter.com/minyoruminyon/status/1132468111695761408 | 11       | 9     | 20      | blacknon_ |
 | 2019/05/23 21:05:13 | https://twitter.com/minyoruminyon/status/1131531528242995201 | 11       | 9     | 20      | ryuichiueda |
 | 2019/04/23 22:19:15 | https://twitter.com/minyoruminyon/status/1120678523465682944 | 11       | 9     | 20      | ryuichiueda |
@@ -850,8 +849,7 @@
 | 2018/06/05 13:58:47 | https://twitter.com/minyoruminyon/status/1003863683989008384 | 8        | 8     | 16      | Logi024tec |
 | 2019/11/20 18:39:42 | https://twitter.com/minyoruminyon/status/1197087109519069184 | 7        | 9     | 16      | yami_buta |
 | 2019/10/28 23:08:15 | https://twitter.com/minyoruminyon/status/1188819773280247810 | 7        | 9     | 16      | blacknon_ |
-| 2019/10/16 21:40:04 | https://twitter.com/minyoruminyon/status/1184448926566346752 | 7        | 9     | 16      | xztaityozx_001
- |
+| 2019/10/16 21:40:04 | https://twitter.com/minyoruminyon/status/1184448926566346752 | 7        | 9     | 16      | xztaityozx_001 |
 | 2019/09/15 11:01:36 | https://twitter.com/minyoruminyon/status/1173054226294919175 | 7        | 9     | 16      | jiro_saburomaru |
 | 2019/09/11 11:51:59 | https://twitter.com/minyoruminyon/status/1171617354859433984 | 7        | 9     | 16      | dangoya3 |
 | 2019/08/06 23:48:33 | https://twitter.com/minyoruminyon/status/1158751720773545984 | 7        | 9     | 16      | YToriyama |
