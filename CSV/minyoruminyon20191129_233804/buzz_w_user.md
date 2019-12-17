@@ -377,8 +377,7 @@
 | 2019/08/04 17:07:38 | https://twitter.com/minyoruminyon/status/1157926049579094017 | 6        | 20    | 26      | yryrrrrryryr |
 | 2019/07/17 16:57:32 | https://twitter.com/minyoruminyon/status/1151400528481419265 | 6        | 20    | 26      | gepetan |
 | 2019/05/06 21:57:00 | https://twitter.com/minyoruminyon/status/1125383963407634439 | 13       | 12    | 25      | jiro_saburomaru |
-| 2018/01/06 21:44:13 | https://twitter.com/minyoruminyon/status/949622632944517120  | 13       | 12    | 25      | theoremoon
- |
+| 2018/01/06 21:44:13 | https://twitter.com/minyoruminyon/status/949622632944517120  | 13       | 12    | 25      | theoremoon |
 | 2019/07/21 02:00:22 | https://twitter.com/minyoruminyon/status/1152624301276688384 | 12       | 13    | 25      | hagyu_aya |
 | 2018/03/02 21:59:52 | https://twitter.com/minyoruminyon/status/969557902473048064  | 12       | 13    | 25      | kochanto |
 | 2017/10/27 18:50:59 | https://twitter.com/minyoruminyon/status/923849499818131456  | 12       | 13    | 25      | obknnt |
