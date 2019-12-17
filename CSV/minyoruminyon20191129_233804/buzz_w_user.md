@@ -148,8 +148,7 @@
 | 2019/03/26 23:08:17 | https://twitter.com/minyoruminyon/status/1110544003332636675 | 10       | 32    | 42      | ryuichiueda |
 | 2018/04/02 22:43:38 | https://twitter.com/minyoruminyon/status/980802942491025410  | 18       | 23    | 41      | ryuichiueda |
 | 2019/08/29 23:27:03 | https://twitter.com/minyoruminyon/status/1167081230203908099 | 14       | 27    | 41      | _reikx |
-| 2019/07/20 00:32:55 | https://twitter.com/minyoruminyon/status/1152239903708606464 | 14       | 27    | 41      | yamada_toru1980
- |
+| 2019/07/20 00:32:55 | https://twitter.com/minyoruminyon/status/1152239903708606464 | 14       | 27    | 41      | yamada_toru1980 |
 | 2018/01/17 20:18:29 | https://twitter.com/minyoruminyon/status/953587322934648832  | 13       | 28    | 41      | kotatsugame_t |
 | 2019/07/18 07:37:53 | https://twitter.com/minyoruminyon/status/1151622074361774081 | 12       | 29    | 41      | moko2356789 |
 | 2019/07/10 08:08:36 | https://twitter.com/minyoruminyon/status/1148730701870555136 | 11       | 30    | 41      | jiro_saburomaru |
