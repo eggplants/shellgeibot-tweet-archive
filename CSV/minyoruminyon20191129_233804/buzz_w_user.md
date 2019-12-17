@@ -866,8 +866,7 @@
 | 2019/01/15 22:07:16 | https://twitter.com/minyoruminyon/status/1085161494885457920 | 7        | 9     | 16      | blacknon_ |
 | 2018/11/23 11:33:27 | https://twitter.com/minyoruminyon/status/1065795433488760832 | 7        | 9     | 16      | t_motooka |
 | 2018/08/26 15:08:23 | https://twitter.com/minyoruminyon/status/1033597001789661184 | 7        | 9     | 16      | blacknon_ |
-| 2018/07/25 21:43:07 | https://twitter.com/minyoruminyon/status/1022099931119546368 | 7        | 9     | 16      | theoremoon
- |
+| 2018/07/25 21:43:07 | https://twitter.com/minyoruminyon/status/1022099931119546368 | 7        | 9     | 16      | theoremoon |
 | 2018/03/22 10:07:12 | https://twitter.com/minyoruminyon/status/976626312252071937  | 7        | 9     | 16      | eban |
 | 2017/09/21 22:14:56 | https://twitter.com/minyoruminyon/status/910854860324536321  | 7        | 9     | 16      | eban |
 | 2019/11/18 19:21:59 | https://twitter.com/minyoruminyon/status/1196372976679022592 | 6        | 10    | 16      | amanoese |
@@ -897,8 +896,7 @@
 | 2019/08/28 07:14:55 | https://twitter.com/minyoruminyon/status/1166474196794241025 | 5        | 11    | 16      | yami_buta |
 | 2019/08/04 22:43:25 | https://twitter.com/minyoruminyon/status/1158010554511872001 | 5        | 11    | 16      | jiro_saburomaru |
 | 2019/07/29 16:40:21 | https://twitter.com/minyoruminyon/status/1155744857828102144 | 5        | 11    | 16      | gomazarashie |
-| 2019/07/22 23:11:39 | https://twitter.com/minyoruminyon/status/1153306616915042315 | 5        | 11    | 16      | xztaityozx_001
- |
+| 2019/07/22 23:11:39 | https://twitter.com/minyoruminyon/status/1153306616915042315 | 5        | 11    | 16      | xztaityozx_001 |
 | 2019/07/21 01:00:38 | https://twitter.com/minyoruminyon/status/1152609266882117634 | 5        | 11    | 16      | yami_buta |
 | 2019/07/18 08:30:31 | https://twitter.com/minyoruminyon/status/1151635322213556224 | 5        | 11    | 16      | HK_Shuttle |
 | 2019/07/13 22:34:32 | https://twitter.com/minyoruminyon/status/1150035783320915973 | 5        | 11    | 16      | yami_buta |
