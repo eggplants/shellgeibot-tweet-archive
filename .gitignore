@@ -1,2 +1,6 @@
 *.swp
 *.save
+conf.py
+.ipynb_checkpoints/
+__pycache__/
+
