@@ -14,7 +14,7 @@
 - [Twitter メディアダウンローダ](https://memo.furyutei.work/entry/20160723/1469282864)
   - API制限で通常は[statuses/user_timeline](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline)で直近3200件しか取れないがそれを超えて取得できる優れもの
 # 生成する
-- `analyze.ipynb`を実行するとよしなに/CSV/にある新しいデータを読み込む
+- `analyze.ipynb`を実行するとよしなに`/CSV/`にある新しいデータを読み込む
 ## 基本
 - `formatted.csv`
   - 最初4行削除
