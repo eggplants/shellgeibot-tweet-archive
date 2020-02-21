@@ -3,6 +3,13 @@
 - ランキングを生成する
 - 分析をする
 
+# 必要
+- [matplotlib](https://github.com/matplotlib/matplotlib)
+- [numpy](https://github.com/numpy/numpy)
+- [pandas](https://github.com/pandas-dev/pandas)
+- [pytablewriter](https://github.com/thombashi/pytablewriter)
+- [scipy](https://github.com/scipy/scipy)
+
 # 収集ツール
 [Twitter メディアダウンローダ](https://memo.furyutei.work/entry/20160723/1469282864)
 
