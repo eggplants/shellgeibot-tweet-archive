@@ -11,7 +11,7 @@
 - [scipy](https://github.com/scipy/scipy)
 
 # 収集ツール
-[Twitter メディアダウンローダ](https://memo.furyutei.work/entry/20160723/1469282864)
+- [Twitter メディアダウンローダ](https://memo.furyutei.work/entry/20160723/1469282864)
 
 # 生成する
 - analyze.ipynbを実行するとよしなに/CSV/にある新しいデータを読み込む
