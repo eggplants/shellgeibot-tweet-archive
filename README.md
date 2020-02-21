@@ -12,11 +12,11 @@
 
 # 収集ツール
 - [Twitter メディアダウンローダ](https://memo.furyutei.work/entry/20160723/1469282864)
-
+  - API制限で通常は[statuses/user_timeline](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline)で直近3200件しか取れないがそれを超えて取得できる優れもの
 # 生成する
-- analyze.ipynbを実行するとよしなに/CSV/にある新しいデータを読み込む
+- `analyze.ipynb`を実行するとよしなに/CSV/にある新しいデータを読み込む
 ## 基本
-- formatted.csv
+- `formatted.csv`
   - 最初4行削除
   - カラム削除
     - Action date
@@ -32,26 +32,27 @@
     - RT+FAV
     - User
       - Tweet contentからユーザーを抽出
-      - https://twitter.com/([a-zA-Z0-9_]+)/status/[0-9]+
+      - `re.search(r'https://twitter.com/([a-zA-Z0-9_]+)/status/[0-9]+').groups(1)[0]`
+      - マッチしなければminyoruminyonとしてカウント
 
 ## バズり
-- buzz.csv
+- `buzz.csv`
   - 全ツイートRT, LIKEでソート
   - RANK, URL, USER, RT+LIKE, RT, LIKE
-- buzz_1000.md
+- `buzz_1000.md`
   - buzz.csvの1000行バージョン
-- buzz_500.md
-  - buzz.csvの500行バージョン
-- buzz_100.md
-  - buzz.csvの100行バージョン
+- `buzz_500.md`
+  - `buzz.csv`の500行バージョン
+- `buzz_100.md`
+  - `buzz.csv`の100行バージョン
 
 ## ユーザーリスト
-- user.csv
+- `user.csv`
   - ユーザ一覧(実行を一度でもされた)
   - 実行回数でソート
   - RANK, NAME, COUNT
-- user.md
-  - user.csvのmdバージョン
-- /user/
-  - tweet>=10のユーザーが実行したリスト
-  - <user name>.csv
+- `user.md`
+  - `user.csv`のmdバージョン
+- `/user/`
+  - `tweet>=10`のユーザーが実行したリスト
+  - `<user name>.csv`
