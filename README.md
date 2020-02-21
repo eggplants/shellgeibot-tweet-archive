@@ -6,8 +6,9 @@
 # 収集ツール
 [Twitter メディアダウンローダ](https://memo.furyutei.work/entry/20160723/1469282864)
 
-# やりたいね。
-# 基本
+# 生成する
+- analyze.ipynbを実行するとよしなに/CSV/にある新しいデータを読み込む
+## 基本
 - formatted.csv
   - 最初4行削除
   - カラム削除
@@ -32,14 +33,18 @@
   - RANK, URL, USER, RT+LIKE, RT, LIKE
 - buzz_1000.md
   - buzz.csvの1000行バージョン
+- buzz_500.md
+  - buzz.csvの500行バージョン
 - buzz_100.md
   - buzz.csvの100行バージョン
 
 ## ユーザーリスト
-- users.csv
+- user.csv
   - ユーザ一覧(実行を一度でもされた)
   - 実行回数でソート
   - RANK, NAME, COUNT
-- users.md
-  - users.csvのmdバージョン
-
+- user.md
+  - user.csvのmdバージョン
+- /user/
+  - tweet>=10のユーザーが実行したリスト
+  - <user name>.csv
