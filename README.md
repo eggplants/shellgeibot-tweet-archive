@@ -32,7 +32,7 @@
     - RT+FAV
     - User
       - Tweet contentからユーザーを抽出
-      - `re.search(r'https://twitter.com/([a-zA-Z0-9_]+)/status/[0-9]+').groups(1)[-1]`
+      - `re.search(r'https://twitter.com/([a-zA-Z0-9_]+)/status/[0-9]+').groups(1)[0]`
       - マッチしなければminyoruminyonとしてカウント
 
 ## バズり
