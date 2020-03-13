@@ -8,6 +8,7 @@
 - [numpy](https://github.com/numpy/numpy)
 - [pandas](https://github.com/pandas-dev/pandas)
 - [pytablewriter](https://github.com/thombashi/pytablewriter)
+- [requests-oauthlib](https://github.com/requests/requests-oauthlib)
 - [scipy](https://github.com/scipy/scipy)
 
 # 収集ツール
@@ -32,8 +33,8 @@
     - RT+FAV
     - User
       - Tweet contentからユーザーを抽出
-      - `re.search(r'https://twitter.com/([a-zA-Z0-9_]+)/status/[0-9]+').groups(1)[0]`
-      - マッチしなければminyoruminyonとしてカウント
+      - 複数ユーザーのID(minyoruminyon除く)があれば`Twitter API`叩く
+      - 特定できなければminyoruminyonとしてカウント
 
 ## バズり
 - `buzz.csv`
