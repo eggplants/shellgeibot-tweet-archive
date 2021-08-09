@@ -1,0 +1,6 @@
+matplotlib
+pandas
+pep8
+pytablewriter
+requests_oauthlib
+scipy

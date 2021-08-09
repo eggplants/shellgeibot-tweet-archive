@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+command -v curl >/dev/null || {
+  echo "require: curl" >&2
+  exit 1
+}
+[ -d "$HOME/.ipython/extensions" ] && {
+  curl -L "https://git.io/JR2g7" > ~/.ipython/extensions/pep8magic.py
+}
